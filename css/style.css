@@ -363,3 +363,9 @@ header .hero {
    font-size:13px;
    margin-top: 30px;
  }
+ .testimonials blockquote.stagger {
+   margin-top: 20px
+ }
+.one-fourth:nth-child(even){
+  margin-top: 20px;
+}
